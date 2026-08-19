@@ -1,4 +1,4 @@
-import { SinglyLinkedList } from "./linked-list/singlyLinkedList.js";
+import { SinglyLinkedList } from "./data-structures/linked-list/singlyLinkedList.js";
 
 const ssl = new SinglyLinkedList();
 
